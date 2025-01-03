@@ -5,3 +5,4 @@ If the guess is higher than the randomly generated number you get a message that
 But when the guess is lower you get a message that says Too low
 Once the guess is exact you get the message, You won
 Once you guess the random number correctly,  the random number is diplayed for you to see.
+Anytime you guess wrongly you get 1 deducted from your current score.
