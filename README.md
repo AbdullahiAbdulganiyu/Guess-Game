@@ -6,3 +6,4 @@ But when the guess is lower you get a message that says Too low
 Once the guess is exact you get the message, You won
 Once you guess the random number correctly,  the random number is diplayed for you to see.
 Anytime you guess wrongly you get 1 deducted from your current score.
+Your current score would be the highest you've scored throughout the game
