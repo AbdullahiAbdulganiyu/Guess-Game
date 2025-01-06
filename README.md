@@ -8,4 +8,5 @@ Once you guess the random number correctly,  the random number is diplayed for y
 Anytime you guess wrongly you get 1 deducted from your current score.
 Your current score would be the highest you've scored throughout the game
 To start again and reset all the previous entry you can click on the Again button.
-The again button.....
+The again button resets the game so that you can start guesssing again. 
+Clicking the again button also make you loose your current and even highest recorded score.
