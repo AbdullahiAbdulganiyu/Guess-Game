@@ -12,3 +12,5 @@ The again button resets the game so that you can start guesssing again.
 Clicking the again button also make you loose your current and even highest recorded score.
 Once the guess is correct, the background color changes
 The number is also made visible
+The number of guesses determine your highest score
+The more the number.....
